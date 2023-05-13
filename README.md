@@ -1,1 +1,1 @@
-# Hospitality-Dashbaord
+# Hospitality-Dashboard
